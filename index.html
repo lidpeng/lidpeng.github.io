@@ -26,6 +26,30 @@
             border-collapse: collapse;
         }
 	</style> -->
+    <style>
+        /* 统一的论文列表样式 */
+        ul.papers {
+          list-style: none;         /* 去默认圆点 */
+          padding-left: 1.4rem;     /* 左缩进 */
+          margin: 0;                /* 去掉外边距，避免额外空白 */
+        }
+        ul.papers li {
+          position: relative;
+          margin: 0 0 1rem 0;       /* 条目间距 */
+          line-height: 1.5;         /* 行距更舒适 */
+        }
+        ul.papers li::before {
+          content: "·";
+          position: absolute;
+          left: -1.4rem;            /* “·”放在左侧缩进处 */
+          top: 0.1rem;
+          font-weight: bold;
+        }
+        /* 分行的语义化块 */
+        .paper-title { display: block; font-weight: bold; }
+        .paper-venue { display: block; font-style: italic; }
+        .paper-authors, .paper-links { display: block; }
+      </style>
 </head>
 
 
@@ -72,11 +96,11 @@
                                 <!--[<a href="./Files/CV.pdf" target="_blank">CV</a>]-->
                                 <!-- [<a href="https://www.kaggle.com/li325040229" target="_blank">Kaggle</a>] -->
                                 <!-- [<a href="https://www.zhihu.com/people/dapeng-24-1" target="_blank">Zhihu</a>] -->
-
+<!-- 
                                 [<a href="./Files/weixin.jpg" target="_blank">
                                     <font style="font-family:Microsoft YaHei">Wechat</font>
                                 </a>]
-                                [公众号:Dapeng的记事本</a>]
+                                [公众号:Dapeng的记事本</a>] -->
                     </td>
                 </tr>
             </table>
@@ -88,10 +112,9 @@
             My research interests include reinforcement learning,multi-agent systems and data mining & analysis. Currently, I focus on the following research topics:
             <ul>
                 <li>Multi-agent collaboration</li>
-                <li>Partially observable Markov decision process</li>
-                <li>Opponent Modeling</li>
+                <li>Multi-agent Reinforcement Learning</li>
                 <li>Quantitative Finance</li>
-                <li>Large Language Models & Agents/li>
+                <li>Large Language Model (LLM) Agents</li>
             </ul>
             Other Interest:
             <ul>
@@ -105,7 +128,7 @@
                 <h2>Education</h2>
             </A>
             <ul>
-                <li>2020.09-Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a
+                <li>2020.09-2025.09 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a
                         href="http://www.ia.cas.cn/" target="_blank">Institute of Automation</a>, <a
                         href="https://www.cas.cn/" target="_blank">Chinese Academy of Sciences</a>.
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor:
@@ -158,140 +181,96 @@
 
             <br />
 
-
             <A NAME="Publications">
                 <h2>Selected Publications</h2>
-            </A>
-
-
-
-            <!-- <p><b>Conferences</b>: </p> -->
-            <font size="3"> 
-            <ul> 
- <p style="text-indent: -1.6rem;margin-left: 0rem;">
-
-
-</p>
-        <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[1] <b>From Explicit Communication to Tacit Cooperation:A Novel Paradigm for Cooperative MARL</b>
-            <br>
-            <i>International Conference on Autonomous Agents and Multi-Agent Systems(<b><font color="#FF0000">AAMAS</font></b>)</i>, in Auckland, New Zealand, 2024. (<b>Extended Abstract</b>)
-            <br>
-            <b>Dapeng Li</b>, Zhiwei Xu, Bin Zhang, and Guoliang Fan
-            <br>
-            [<a href="https://arxiv.org/abs/2304.14656" target="_blank">Arxiv</a>]
-            </span>
-            </p>
-            
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[2] <b>Adaptive Parameter Sharing for Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>IEEE International Conference on Acoustics, Speech and Signal Processing(<b>ICASSP</b>)</i>, in Seoul, Korea, 2024.
-            <br>
-            <b>Dapeng Li</b>, Na Lou, Bin Zhang, Zhiwei Xu, and Guoliang Fan
-            <br>
-            [<a href="https://arxiv.org/abs/2312.09009" target="_blank">Arxiv</a>]
-            </span>
-            </p>
-
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[3] <b>SEA: A Spatially Explicit Architecture for Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>International Joint Conference on Neural Networks(<b>IJCNN</b>)</i>,in Queensland, Australia, 2023.
-            <br>
-            <b>Dapeng Li</b>, Zhiwei Xu, Bin Zhang, and Guoliang Fan,
-            <!-- (<b><font color="#FF0000">Oral</font></b>) -->
-            <br>
-            </span>
-            </p>
-
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[4] <b>Consensus Learning for Cooperative Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>Thirty-Seventh AAAI Conference on Artificial Intelligence(<b><font color="#FF0000">AAAI</font></b>)</i>,in Washington, DC, USA, 2023.
-            (<b><font color="#FF0000">Oral</font></b>)
-            <br>
-            Zhiwei Xu, Bin Zhang, <b>Dapeng Li</b>, Zeren Zhang, Guangchong Zhou, and Guoliang Fan,
-            <br>
-            [<a href="https://arxiv.org/abs/2206.02583" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/COLA" target="_blank">Code</a>]
-            </span>
-            </p>
-            
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[5] <b>HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism</b>
-            <br>
-            <i>Thirty-Seventh AAAI Conference on Artificial Intelligence(<b><font color="#FF0000">AAAI</font></b>)</i>,in Washington, DC, USA, 2023.
-            (<b><font color="#FF0000">Oral</font></b>)
-            <br>
-            Zhiwei Xu, Yunpeng Bai, Bin Zhang, <b>Dapeng Li</b>, and Guoliang Fan,
-            <br>
-            [<a href="https://arxiv.org/abs/2110.07246" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/HAVEN" target="_blank">Code</a>]
-            </span>
-            </p>
-            
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[6] <b>Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>Thirty-sixth Conference on Neural Information Processing Systems(<b><font color="#FF0000">NeurIPS</font></b>)</i>,
-            in New Orleans, USA, 2022.
-            <br>
-            Zhiwei Xu, <b>Dapeng Li</b>, Bin Zhang, Yuan Zhan, Yunpeng Bai, and Guoliang Fan,
-            <br>
-            (<b><font color="#FF0000">Spotlight</font></b>)
-            [<a href="https://arxiv.org/abs/2204.09418" target="_blank">Arxiv</a>]
-            </span>
-            </p>
-<!-- 
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[5] Zhiwei Xu, Bin Zhang, Yunpeng Bai, <b>Dapeng Li </b>, and Guoliang Fan*,
-            “Learning to Coordinate via Multiple Graph Neural Networks”,
-            <i>International Conference on Neural Information Processing(<b>ICONIP</b>)</i>,
-            in BALI, Indonesia, 2021.
-            (<b><font color="#FF0000">Oral</font></b>)
-            [<a href="https://arxiv.org/abs/2104.03503" target="_blank">Arxiv</a>]
-            </span>
-            </p> -->
-            
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[7] <b>MMD-MIX: Value Function Factorisation with Maximum Mean Discrepancy for Cooperative Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>International Joint Conference on Neural Networks(<b>IJCNN</b>)</i>,
-            in Shenzhen, China, 2021.
-            <br>
-            Zhiwei Xu, <b>Dapeng Li </b>, Yunpeng Bai, and Guoliang Fan*,
-            <br>
-            (<b>Poster</b>)
-            [<a href="https://arxiv.org/abs/2106.11652" target="_blank">Arxiv</a>]
-            </span>
-            </p>
-            
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[8] <b>SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning</b>
-            <br>
-            <i>International Conference on Autonomous Agents and Multi-Agent Systems(<b><font color="#FF0000">AAMAS</font></b>)</i>,
-            in Auckland, New Zealand, 2022.    
-            <br>
-            Zhiwei Xu, Yunpeng Bai,<b>Dapeng Li</b>, Bin Zhang, and Guoliang Fan*,
-            (<b><font color="#FF0000">Oral</font></b>)
-            [<a href="https://arxiv.org/abs/2105.06228" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/SIDE" target="_blank">Code</a>]
-            </span>
-            </p>
-
-            </ul>
-            <br />
-            
-            <p><b>Pre-prints</b>: </p>
-            <font size="3">
-            <ul>
-
-            <p style="text-indent: -1.6rem;margin-left: 0rem;">
-            <span>[1] <b>Style Miner: Find Significant and Stable Explanatory Factors in Time Series with Constrained Reinforcement Learning</b>
-            <br>
-            <b>Dapeng Li</b>, Feiyang Pan, Jia He, Zhiwei Xu, Dandan Tu, and Guoliang Fan.
-            <br>
-            [<a href="https://arxiv.org/abs/2303.11716" target="_blank">Arxiv</a>]
-            </span>
-            </p>
+              </A>
+              
+              <font size="3">
+                <ul class="papers">
+                  <li>
+                    <span class="paper-title">Efficient Communication in Multi-Agent Reinforcement Learning with Implicit Consensus Generation</span>
+                    <div class="paper-venue">The 39th Annual AAAI Conference on Artificial Intelligence (<b><font color="#FF0000">AAAI</font></b>), Philadelphia, Pennsylvania, USA, 2025. (<b><font color="#FF0000">Oral</font></b>)</div>
+                    <div class="paper-authors"><b>Dapeng Li</b>, Na Lou, Zhiwei Xu, Bin Zhang, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/34490" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">Sequential asynchronous action coordination in multi-agent systems: A stackelberg decision transformer approach</span>
+                    <div class="paper-venue">The Forty-first International Conference on Machine Learning (<b><font color="#FF0000">ICML</font></b>), 2024.</div>
+                    <div class="paper-authors">Bin Zhang, Hangyu Mao, Lijuan Li, Zhiwei Xu, <b>Dapeng Li</b>, Rui Zhao, Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://openreview.net/forum?id=M3qRRkOuTN" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL</span>
+                    <div class="paper-venue">International Conference on Autonomous Agents and Multi-Agent Systems (<b><font color="#FF0000">AAMAS</font></b>), Auckland, New Zealand, 2024. (<b>Extended Abstract</b>)</div>
+                    <div class="paper-authors"><b>Dapeng Li</b>, Zhiwei Xu, Bin Zhang, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2304.14656" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">Adaptive Parameter Sharing for Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">IEEE International Conference on Acoustics, Speech and Signal Processing (<b><font color="#FF0000">ICASSP</font></b>), Seoul, Korea, 2024.</div>
+                    <div class="paper-authors"><b>Dapeng Li</b>, Na Lou, Bin Zhang, Zhiwei Xu, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2312.09009" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">SEA: A Spatially Explicit Architecture for Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">International Joint Conference on Neural Networks (<b>IJCNN</b>), Queensland, Australia, 2023.</div>
+                    <div class="paper-authors"><b>Dapeng Li</b>, Zhiwei Xu, Bin Zhang, and Guoliang Fan</div>
+                    <div class="paper-links"></div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">Consensus Learning for Cooperative Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">Thirty-Seventh AAAI Conference on Artificial Intelligence (<b><font color="#FF0000">AAAI</font></b>), Washington, DC, USA, 2023. (<b><font color="#FF0000">Oral</font></b>)</div>
+                    <div class="paper-authors">Zhiwei Xu, Bin Zhang, <b>Dapeng Li</b>, Zeren Zhang, Guangchong Zhou, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2206.02583" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/COLA" target="_blank">Code</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism</span>
+                    <div class="paper-venue">Thirty-Seventh AAAI Conference on Artificial Intelligence (<b><font color="#FF0000">AAAI</font></b>), Washington, DC, USA, 2023. (<b><font color="#FF0000">Oral</font></b>)</div>
+                    <div class="paper-authors">Zhiwei Xu, Yunpeng Bai, Bin Zhang, <b>Dapeng Li</b>, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2110.07246" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/HAVEN" target="_blank">Code</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">Thirty-sixth Conference on Neural Information Processing Systems (<b><font color="#FF0000">NeurIPS</font></b>), New Orleans, USA, 2022. (<b><font color="#FF0000">Spotlight</font></b>)</div>
+                    <div class="paper-authors">Zhiwei Xu, <b>Dapeng Li</b>, Bin Zhang, Yuan Zhan, Yunpeng Bai, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2204.09418" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">MMD-MIX: Value Function Factorisation with Maximum Mean Discrepancy for Cooperative Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">International Joint Conference on Neural Networks (<b>IJCNN</b>), Shenzhen, China, 2021. (<b>Poster</b>)</div>
+                    <div class="paper-authors">Zhiwei Xu, <b>Dapeng Li</b>, Yunpeng Bai, and Guoliang Fan*</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2106.11652" target="_blank">Arxiv</a>]</div>
+                  </li>
+              
+                  <li>
+                    <span class="paper-title">SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning</span>
+                    <div class="paper-venue">International Conference on Autonomous Agents and Multi-Agent Systems (<b><font color="#FF0000">AAMAS</font></b>), Auckland, New Zealand, 2022. (<b><font color="#FF0000">Oral</font></b>)</div>
+                    <div class="paper-authors">Zhiwei Xu, Yunpeng Bai, <b>Dapeng Li</b>, Bin Zhang, and Guoliang Fan*</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2105.06228" target="_blank">Arxiv</a>][<a href="https://github.com/deligentfool/SIDE" target="_blank">Code</a>]</div>
+                  </li>
+                </ul>
+              </font>
+              
+              <br />
+              
+              <p><b>Pre-prints</b>:</p>
+              <font size="3">
+                <ul class="papers">
+                  <li>
+                    <span class="paper-title">Style Miner: Find Significant and Stable Explanatory Factors in Time Series with Constrained Reinforcement Learning</span>
+                    <div class="paper-authors"><b>Dapeng Li</b>, Feiyang Pan, Jia He, Zhiwei Xu, Dandan Tu, and Guoliang Fan</div>
+                    <div class="paper-links">[<a href="https://arxiv.org/abs/2303.11716" target="_blank">Arxiv</a>]</div>
+                  </li>
+                </ul>
+              </font>
             <!-- </ul>                    
 
             <!--All Rights Reserved by Dapeng Li. Part of page is generated by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.-->

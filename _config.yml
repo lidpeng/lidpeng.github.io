@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dapeng Li \n 李大鹏"
+  name             : "Dapeng Li \n"
   avatar           : "images/ldp3.jpg"
   bio              : "Li Auto Inc."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
-  email            : "lidapeng2020@ia.ac.cn"
-  researchgate     : # "https://www.researchgate.net/profile/Zhiwei-Xu-37"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qyRK4MIAAAAJ"
+  email            : "lidapeng3@lixiang.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "deligentfool"
+  github           : "lidpeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : ""
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

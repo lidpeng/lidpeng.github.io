@@ -25,7 +25,7 @@ I received my Ph.D. degree from the [Institute of Automation](http://www.ia.cas.
 
 <b><font color="#FF0000">🔥 We are actively looking for interns and research collaborators!</font></b> If you are interested in <b>LLM Agents</b>, <b>Agent Reinforcement Learning</b>, or <b>Multi-Agent Reinforcement Learning (MARL)</b>, please feel free to contact me. We have <b>abundant computational resources</b> and <b>real-world application scenarios</b> in autonomous driving.
 
-<b><font color="#FF0000">🔥 我们长期招收实习生并欢迎合作！</font></b>如果你对<b>大模型智能体</b>、<b>智能体强化学习</b>或<b>多智能体强化学习</b>感兴趣，欢迎联系我。我们拥有<b>充足的计算资源</b>和<b>丰富的实际应用场景</b>（自动驾驶）。
+<b><font color="#FF0000">🔥 我们长期招收实习生并欢迎合作！</font></b>如果你对<b>大模型智能体</b>、<b>智能体强化学习</b>或<b>多智能体强化学习</b>感兴趣，欢迎联系我。我们拥有<b>充足的计算资源</b>和<b>丰富的实际应用场景</b>。
 
 **Contact / 联系方式:**
 - Email: lidapeng2020@ia.ac.cn
@@ -84,8 +84,8 @@ Some awards in my graduate and undergraduate school:
 - 2019 Technology Innovation and Practice Scholarship, Toyo Information Systems
 
 # 💻 Internships
-- *2023.03 - 2023.09*, [Huawei Cloud](https://www.huaweicloud.com/), China
-- *2022.06 - 2022.12*, [Microsoft Research Asia (MSRA)](https://www.msra.cn/), China
+- *2023*, [Huawei](https://www.huaweicloud.com/), China
+- *2024*, [Microsoft Research Asia (MSRA)](https://www.msra.cn/), China
 
 # 📝 Selected Publications
 

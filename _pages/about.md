@@ -45,8 +45,7 @@ Other Interest:
 
 # 📖 Education & Experience
 
-- *2025.06 - Present*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joint Postdoctoral Researcher at [Li Auto Inc.](https://www.lixiang.com/) and [Tsinghua University](https://www.tsinghua.edu.cn/)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Researcher in Agent RL Group at Li Auto
+- *2025.06 - Present*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Researcher in Agent RL Group at Li Auto and Joint Postdoctoral Researcher at [Li Auto Inc.](https://www.lixiang.com/) and [Tsinghua University](https://www.tsinghua.edu.cn/)
 
 - *2020.09 - 2025.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang)

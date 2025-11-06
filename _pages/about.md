@@ -75,7 +75,7 @@ Other Interest:
 <br />
 
 Some awards in my graduate and undergraduate school:
-- 2021 Outstanding Mentors, CCF
+- CCF中国计算机协会优秀导师奖（Outstanding Mentors）, CCF
 - 2021 Excellent Student, University of Chinese Academy of Sciences
 - 2020 Outstanding Graduates of Beijing
 - 2020 Beijing University of Technology Top Ten Graduates

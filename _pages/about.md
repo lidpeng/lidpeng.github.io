@@ -28,7 +28,7 @@ I received my Ph.D. degree from the [Institute of Automation](http://www.ia.cas.
 <b><font color="#FF0000">🔥 我们长期招收实习生并欢迎合作！</font></b>如果你对<b>大模型智能体</b>、<b>智能体强化学习</b>或<b>多智能体强化学习</b>感兴趣，欢迎联系我。我们拥有<b>充足的计算资源</b>和<b>丰富的实际应用场景</b>。
 
 **Contact / 联系方式:**
-- Email: lidapeng2020@ia.ac.cn
+- Email: lidapeng3@lixiang.com
 - Location: Beijing, China / 中国北京
 
 # 🔥 Fields of Interest
@@ -46,7 +46,7 @@ Other Interest:
 # 📖 Education & Experience
 
 - *2025.06 - Present*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joint Postdoctoral Researcher at [Li Auto Inc.](https://www.lixiang.com/) and [Tsinghua University](https://www.tsinghua.edu.cn/)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Junior Researcher in Agent RL Group at Li Auto
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Senior Researcher in Agent RL Group at Li Auto
 
 - *2020.09 - 2025.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang)

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dapeng Li"
-description              : "Postdoc @ Li Auto & Tsinghua"
+description              : "Researcher @ Li Auto"
 repository               : "lidpeng/lidpeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dapeng Li \n"
-  avatar           : "images/ldp3.jpg"
+  name             : "Dapeng Li\n"
+  avatar           : "Files/ldp3.jpeg"
   bio              : "Li Auto Inc."
   location         : "Beijing, China"
   employer         :

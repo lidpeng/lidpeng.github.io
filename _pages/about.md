@@ -23,7 +23,7 @@ I received my Ph.D. degree from the [Institute of Automation](http://www.ia.cas.
 
 我于[中国科学院自动化研究所](http://www.ia.cas.cn/)、[中国科学院大学人工智能学院](https://ai.ucas.ac.cn/)获得博士学位，师从[范国梁](http://people.ucas.ac.cn/~fanguoliang)教授。目前在**理想汽车智能体强化学习组从事算法研发**，同时也是**理想汽车**与**清华大学**联合在职博士后，关注<b>智能体强化学习</b>、<b>多智能体系统</b>和<b>大语言模型智能体</b>相关的研究与应用。
 
-<b><font color="#FF0000">🔥 We are actively looking for interns and research collaborators!</font></b> If you are interested in <b>LLM Agents</b>, <b>Agent Reinforcement Learning</b>, or <b>Multi-Agent Reinforcement Learning (MARL)</b>, please feel free to contact me. We have <b>abundant computational resources</b> and <b>real-world application scenarios</b> in autonomous driving.
+<b><font color="#FF0000">🔥 We are actively looking for interns and research collaborators!</font></b> If you are interested in <b>LLM Agents</b>, <b>Agent Reinforcement Learning</b>, or <b>Multi-Agent Reinforcement Learning (MARL)</b>, please feel free to contact me. We have <b>abundant computational resources</b> and <b>real-world application scenarios</b>.
 
 <b><font color="#FF0000">🔥 我们长期招收实习生并欢迎合作！</font></b>如果你对<b>大模型智能体</b>、<b>智能体强化学习</b>或<b>多智能体强化学习</b>感兴趣，欢迎联系我。我们拥有<b>充足的计算资源</b>和<b>丰富的实际应用场景</b>。
 

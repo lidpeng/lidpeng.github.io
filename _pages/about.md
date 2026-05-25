@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to **Dapeng Li (李大鹏)**'s Homepage!
 
-I received my Ph.D. degree from the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), and [School of Artificial Intelligence](https://ai.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang). Currently, I am working as the **Head of Agent Reinforcement Learning Group** at **[Li Auto Inc.](https://www.lixiang.com/)** (理想汽车), and also a **Joint Postdoctoral Researcher** at **[Li Auto Inc.](https://www.lixiang.com/)** and **[Tsinghua University](https://www.tsinghua.edu.cn/)** (清华大学). My research focuses on <b>Agent Reinforcement Learning</b>, <b>Multi-agent Systems</b>, and <b>Large Language Model (LLM) Agents</b>.
+I received my Ph.D. degree from the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), and [School of Artificial Intelligence](https://ai.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Researcher [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang). Currently, I am working as the **Head of Agent Reinforcement Learning Group** at **[Li Auto Inc.](https://www.lixiang.com/)** (理想汽车), and also a **Joint Postdoctoral Researcher** at **[Li Auto Inc.](https://www.lixiang.com/)** and **[Tsinghua University](https://www.tsinghua.edu.cn/)** (清华大学). My research focuses on <b>Agent Reinforcement Learning</b>, <b>Multi-agent Systems</b>, and <b>Large Language Model (LLM) Agents</b>.
 
 我于[中国科学院自动化研究所](http://www.ia.cas.cn/)、[中国科学院大学人工智能学院](https://ai.ucas.ac.cn/)获得博士学位，师从[范国梁](http://people.ucas.ac.cn/~fanguoliang)教授。目前在**理想汽车智能体强化学习组从事算法研发**，同时也是**理想汽车**与**清华大学**联合在职博士后，关注<b>智能体强化学习</b>、<b>多智能体系统</b>和<b>大语言模型智能体</b>相关的研究与应用。
 
@@ -46,7 +46,7 @@ Other Interest:
 - *2025.08 - Present*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Head of Agent RL Group at [Li Auto Inc.](https://www.lixiang.com/) and Joint Postdoctoral Researcher at [Li Auto Inc.](https://www.lixiang.com/) and [Tsinghua University](https://www.tsinghua.edu.cn/)
 
 - *2020.09 - 2025.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Researcher [Guoliang Fan](http://people.ucas.ac.cn/~fanguoliang)
 
 - *2016.09 - 2020.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in [Department of information](http://xxxb.bjut.edu.cn/), [Beijing University Of Technology](https://www.bjut.edu.cn/)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Major: Electronic Engineering

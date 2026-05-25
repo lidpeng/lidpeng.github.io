@@ -19,7 +19,7 @@ lang: zh
 
 欢迎来到**李大鹏（Dapeng Li）**的个人主页！
 
-我于[中国科学院自动化研究所](http://www.ia.cas.cn/)、[中国科学院大学人工智能学院](https://ai.ucas.ac.cn/)获得博士学位，师从[范国梁](http://people.ucas.ac.cn/~fanguoliang)教授。目前担任**理想汽车智能体强化学习组负责人**，同时也是**[理想汽车](https://www.lixiang.com/)**与**[清华大学](https://www.tsinghua.edu.cn/)**联合在职博士后，关注<b>智能体强化学习</b>、<b>多智能体系统</b>和<b>大语言模型智能体</b>相关的研究与应用。
+我于[中国科学院自动化研究所](http://www.ia.cas.cn/)、[中国科学院大学人工智能学院](https://ai.ucas.ac.cn/)获得博士学位，师从[范国梁](http://people.ucas.ac.cn/~fanguoliang)研究员。目前担任**理想汽车智能体强化学习组负责人**，同时也是**[理想汽车](https://www.lixiang.com/)**与**[清华大学](https://www.tsinghua.edu.cn/)**联合在职博士后，关注<b>智能体强化学习</b>、<b>多智能体系统</b>和<b>大语言模型智能体</b>相关的研究与应用。
 
 # 🔥 研究兴趣
 
@@ -42,7 +42,7 @@ lang: zh
 - *2025.08 - 至今*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [理想汽车](https://www.lixiang.com/)智能体强化学习组负责人，[理想汽车](https://www.lixiang.com/)与[清华大学](https://www.tsinghua.edu.cn/)联合在职博士后
 
 - *2020.09 - 2025.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士，[中国科学院自动化研究所](http://www.ia.cas.cn/)，[中国科学院](https://www.cas.cn/)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 导师：[范国梁](http://people.ucas.ac.cn/~fanguoliang)教授
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 导师：[范国梁](http://people.ucas.ac.cn/~fanguoliang)研究员
 
 - *2016.09 - 2020.06*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 工学学士，[北京工业大学](https://www.bjut.edu.cn/)[信息学部](http://xxxb.bjut.edu.cn/)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 专业：电子工程
